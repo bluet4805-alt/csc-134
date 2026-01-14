@@ -9,5 +9,6 @@ using  namespace std;
 int main () {
     cout << "Hello CSC 134!" << endl; // E N D L 
     cout << endl; // another new line 
+    cout << "My name is Trinity!!" << endl;
     return 0; //no errors 
 }
