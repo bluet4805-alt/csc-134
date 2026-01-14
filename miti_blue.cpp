@@ -9,6 +9,13 @@ using  namespace std;
 int main () {
     cout << "Hello CSC 134!" << endl; // E N D L 
     cout << endl; // another new line 
-    cout << "My name is Trinity!!" << endl;
-    return 0; //no errors 
+    cout << "It is cold today." << endl;
+
+    string name; // new "box" to hold a name 
+    cout << "What is your name? ";
+    cin >> name; // read in their answer
+    // fianlly, say hi to them 
+    cout << "Well hi, " << name << "!" << endl; 
+        return 0; //no errors 
+
 }
