@@ -1,7 +1,7 @@
 // CSC 124
 // M1LAB1 - We're seling something 
-//name
-//date
+//Trinity 
+// 1-21-26
 
 #include <iostream>
 #include <iomanip> // For each decimal place
