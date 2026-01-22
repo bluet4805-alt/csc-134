@@ -11,7 +11,7 @@ int main() {
     //Make Variables 
     string movie_name = "The Game Plan"; 
     int release_year = 2007;
-    double ticket_sales = 147.0; // Millions in USD
+    double ticket_sales = 90.6; // Millions in USD
 
     // Decimal precision 
     cout << "Movie: " << movie_name << endl; 
